@@ -1,0 +1,143 @@
+$ BPT3 Live Session
+
+# Agenda
+- Explain BPT3 questions briefly
+- Not discuss BPT3 solutions
+- Go through relevant W4,W5,W6 topics
+- Discuss tips and tricks
+
+# Prerequisites
+- How to navigate a linux VM
+- Know how to solve questions in VM
+- Know, Understand, Solve W1, W2, W3, W4, W5*
+
+# Variables
+!res/var1.png
+Declaration and increment
+
+# Variables
+!res/var3.png
+All normal mathematical operators work as expected
+
+# Variables
+!res/var4.png
+We can get back the result of the eval using `$`
+
+# Variables
+!res/var5.png
+Redundant usecases
+
+# read
+- Take ONE line of input from user and store it in a variable.
+- Can split the line into multiple tokens usign a delimiter.
+- Delimiter is set using IFS variable.
+
+# read
+!res/read1.png
+
+# test
+- Used to evaluate boolean expressions as exit code
+- Used inside `if`, `while`, etc, but also standalone
+- can test unary conditions (file, string)
+- and binary conditions (file, string, numbers)
+
+# test
+- `[` is same as `test`
+- `[[` is a bash keyword, it is more powerful
+- `[[` can match regex (ERE) and glob patterns
+- dont quote ERE inside `[[`
+
+# Stop and Think
+!res/test1.png
+Why is `test 5 -gt 15` `false` but `test 5 '>' 15` `true`?
+
+# [[ glob matching
+!res/test2.png
+[[ (and not test or [) can match globs
+
+# [[ regex matching
+!res/test3.png
+[[ can also match ERE
+
+# Stop and Think
+- What is difference between `*` and `+` in ERE?
+- Why does `hello world` match `x*`?
+
+# negating test
+- We can use `!` to negate the expression
+
+# Why use [[ over [
+- `[[` features are superset of `[`
+- It supports regex and glob matching
+- It supports multiple conditions inside the same `[[`
+- It is a bash keyword, its faster than invoking a command
+- It handles empty variables better
+
+# if conditions
+- It is a conditional statement
+- if runs any command, and checks its exit code
+- based on it, we split the code into two branches
+- if we want to check boolean expressions, use `test`
+
+# if conditions
+!res/if1.png
+
+# if conditions
+!res/if2.png
+
+# if conditions
+!res/if3.png
+
+# if conditions
+!res/if4.png
+
+# while loop
+- We can loop a block of code until a condition is met
+- Like `if`, `while` also executes a command and sees exit code
+- To use expressions, use test
+
+# while and read
+- we can pair while with read to read multiple lines
+- read gives error code if no more lines to read
+- read can be augmented with IFS
+
+# while and redirections
+- like any other shell command, we can redirect input and output
+- we can read a file instead of stdin using `<`
+
+# while
+!res/while1.png
+
+# while
+!res/while2.png
+
+# while
+!res/while3.png
+
+# while
+!res/while4.png
+
+# while
+!res/while5.png
+
+# while
+!res/while6.png
+
+# multiples of 5, 2, and 4
+- can you think of a string pattern of these multiples
+- that let us regex match them?
+
+# factorial using paste and bc
+- paste can be used as `tr '\n' "$delim"`
+- it takes care of last line
+- bc is a calculator that evaluates expressions in stdin
+
+# find
+- find lets you recurse filesystem hierarchy
+- it can filter by name, type, size, etc
+- it can perform actions on the found files
+- learn more about find using `man find`
+
+# Additional Resources
+@https://drive.google.com/drive/u/1/folders/1NZBmJYwtCreV-HCminQGxUZTYxa6zRKv Navigating Linux Book
+@https://www.youtube.com/@BSSE2001/videos System Commands Channel with Additional Videos
