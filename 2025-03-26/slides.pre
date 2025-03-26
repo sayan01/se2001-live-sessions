@@ -1,0 +1,84 @@
+$ OPPE Revision & Tips 
+
+# File Editor
+- nano - Use if you dont know vim or emacs
+- vim
+- emacs
+
+# File System and Navigation
+- You are in ~ (/home/$USER/)
+- The questions are in `/opt/se2001`
+- You do not go into, or do anything in `/opt/se2001`
+- Basic navigation commands
+- `ls` - list files
+- `cd` - change directory
+- `pwd` - print working directory
+
+# Basic FS Creation Commands
+- `touch` - create a file
+- `mkdir` - create a directory
+
+# Brace Expansion
+- `echo {1..10}`
+- `touch file{1..10}{a,b,c}.txt`
+
+# Folding and Unfolding
+- `fold` - fold lines
+- `-w1` - fold at 1 character
+- `paste -s` - unfold lines
+- `-d` - delimiter
+- `xargs -n $num echo` - unfold $num lines
+
+# Examples of Folding and Unfolding
+- fold.sh
+- paste.sh
+- xargs.sh
+- series_sum.sh
+- factorial.sh
+- sod.sh
+- dot.sh
+- big_dot.sh
+- better_dot.sh
+
+# Bash Scripting
+- Read lines using `read`
+- Loop over lines using `while read line`
+- Split lines using `IFS` before `read`
+- Skip header using `tail -n +2`
+- Switch case and `if` statements
+
+# Examples of Bash Scripting
+- header.sh
+- elder.sh
+- richer.sh
+- richness.sh
+- age_group.sh
+
+# Sed Scripting
+- filtering using regex
+- replacing regex with string
+- uppercase and lowercase
+- dropping lines and printing lines
+- `-n` and `-f` flags
+- `=` for line numbers
+- `N` to join lines
+
+# Examples of Sed Scripting
+- header.sh
+- color.sh
+- replace.sh
+- big_berry.sh
+- no_price.sh
+- skipping.sh
+
+# Awk Scripting
+- Field Separator
+- Print lines
+- Number of Records and Number of Fields
+- Print Fields
+- Different Blocks
+
+# Examples of Awk Scripting
+- total.sh
+- stats.sh
+- blocks.sh
