@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 
 cat > script.sed <<EOF
-s/,[0-9]*\.[0-9]*$//g
+s/,Price//
+s/,[0-9]*\.[0-9]*$//
 p
 EOF
 

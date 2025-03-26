@@ -7,7 +7,7 @@ cat > script.sed <<EOF
 }
 EOF
 
-sed -nf script.sed data.csv | xargs -n2 echo
-#sed -nf script.sed data.csv | paste -sd ',\n'
+#sed -nf script.sed data.csv | xargs -n2 echo
+sed -nf script.sed data.csv | paste -sd ',\n'
 
 rm script.sed

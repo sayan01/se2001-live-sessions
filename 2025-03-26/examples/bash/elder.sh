@@ -5,3 +5,4 @@ tail -n +2 data.csv | while IFS=, read -r name age salary; do
     echo "Name: $name"
   fi
 done
+

@@ -1,19 +1,18 @@
 #!/usr/bin/bash
 
-cat > script.awk <<EOF
+cat > script.awk <<'EOF'
 NR==2{
-  min=\$3
+  min=$3
 }
 NR!=1{
-  sum+=\$3
-  if(\$3>max) {
-    max=\$3
+  sum+=$3
+  if($3>max) {
+    max=$3
   }
-  if(\$3<min) {
-    min=\$3
+  if($3<min) {
+    min=$3
   }
-  data[NR-1]=\$3
-  freq[\$3]++
+  data[NR-1]=$3
 }
 END{
   print "Sum:", sum

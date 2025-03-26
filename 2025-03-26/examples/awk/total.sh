@@ -1,11 +1,11 @@
 #!/usr/bin/bash
 
-cat > script.awk <<EOF
+cat > script.awk <<'EOF'
 BEGIN{
   FS=","
 }
 NR!=1{
-  sum+=\$3
+  sum+=$3
 }
 END{
   print sum
