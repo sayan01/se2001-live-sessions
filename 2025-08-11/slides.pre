@@ -1,0 +1,65 @@
+$Linux OPPE Revision
+
+#Shell Variables
+- How to define variables and use variables
+- Read lines of stdin into variable using `read`
+- Variable Manipulation
+
+#Reading multiple lines from stdin
+- Using `read` with `while` to read all lines
+- Using `read` with `IFS` to split lines into fields
+
+#Variable Manipulation
+- Converting to lowercase, uppercase
+- String manipulation (substring extraction, length calculation)
+- Remove prefix and suffix - greedy and non-greedy
+
+#Stream Transformations
+- Simplest transformations using `tr`.
+- Replacing characters, deleting characters
+- Using `sed` for more complex transformations
+
+#Folding and Unfolding
+- Fixed-width vs variable-width folding
+- Using `fold` to wrap text
+- Using `grep -o` to extract patterns
+- Using `paste` to join lines
+
+#Evaluating Mathematical Expressions
+- Using `bc` for arbitrary precision arithmetic
+- Using `expr` for basic arithmetic
+
+#Shell Scripting
+- Writing simple shell scripts
+- Using shebang (`#!/usr/bin/env bash`)
+- Executing scripts with `bash script.sh`
+
+#For Loops and While Loops
+- Using `for` loops to iterate over lists
+- Using `while` loops to read from stdin
+- Using `read` with `IFS` to split lines into fields
+
+#Counting Numbers
+- Iterating till a variable
+- Nested iterations
+- Variable columns per row
+- Printing patterns
+- Sum and average calculations
+
+#Delimiter Trimming at EOL
+- Using `sed` to trim delimiters at the end of lines
+- Using variable manipulation to remove trailing characters
+
+#Sed scripting
+- Printing and deleting lines conditionally
+- Sed with and without `-n` flag
+- Substitutions
+- Converting case
+- Groups and Backreferences in substitutions
+- Swapping groups in replacement
+
+#Awk scripting
+- Input and Output delimiters
+- Finding sum and average
+- Dictionaries in awk
+- For loops in awk

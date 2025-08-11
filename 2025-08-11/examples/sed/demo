@@ -1,0 +1,19 @@
+Your script will be run as follows:
+
+```bash
+sed -f yourscript.sed < input.txt
+```
+
+if `-n` not given
+
+```
+/regex_to_drop/d
+s/sub/new/
+```
+
+if `-n` is given
+
+```
+/regex_to_keep/p
+s/sub/new/
+```

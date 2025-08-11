@@ -1,0 +1,865 @@
+%PDF-1.3
+%·¾­ª
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Kids [ 5 0 R 8 0 R 11 0 R 14 0 R 17 0 R 20 0 R 23 0 R 26 0 R 29 0 R 32 0 R 35 0 R 38 0 R 41 0 R ]
+/Count 13
+>>
+endobj
+3 0 obj
+<<
+/Producer (Haru Free PDF Library 2.4.4)
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /StandardEncoding
+>>
+endobj
+5 0 obj
+<<
+/Type /Page
+/MediaBox [ 0 0 1920 1080 ]
+/Contents 6 0 R
+/Resources <<
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+/Font <<
+/F1 4 0 R
+>>
+>>
+/Parent 2 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 7 0 R
+>>
+stream
+BT
+/F1 24 Tf
+1870 20 Td
+(1) Tj
+ET
+/F1 32 Tf
+/F1 128 Tf
+/F1 128 Tf
+BT
+/F1 128 Tf
+330 540 Td
+(Linux OPPE Revision ) Tj
+ET
+/F1 32 Tf
+
+endstream
+endobj
+7 0 obj
+130
+endobj
+8 0 obj
+<<
+/Type /Page
+/MediaBox [ 0 0 1920 1080 ]
+/Contents 9 0 R
+/Resources <<
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+/Font <<
+/F1 4 0 R
+>>
+>>
+/Parent 2 0 R
+>>
+endobj
+9 0 obj
+<<
+/Length 10 0 R
+>>
+stream
+BT
+/F1 24 Tf
+1870 20 Td
+(2) Tj
+ET
+/F1 32 Tf
+/F1 96 Tf
+BT
+/F1 96 Tf
+626 918 Td
+(Shell Variables ) Tj
+ET
+1 w
+384 868 m
+1536 868 l
+S
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 756 Td
+(- How to define variables and use variables ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 702 Td
+(- Read lines of stdin into variable using `read` ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 647 Td
+(- Variable Manipulation ) Tj
+ET
+/F1 32 Tf
+
+endstream
+endobj
+10 0 obj
+386
+endobj
+11 0 obj
+<<
+/Type /Page
+/MediaBox [ 0 0 1920 1080 ]
+/Contents 12 0 R
+/Resources <<
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+/Font <<
+/F1 4 0 R
+>>
+>>
+/Parent 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 13 0 R
+>>
+stream
+BT
+/F1 24 Tf
+1870 20 Td
+(3) Tj
+ET
+/F1 32 Tf
+/F1 96 Tf
+BT
+/F1 96 Tf
+253 918 Td
+(Reading multiple lines from stdin ) Tj
+ET
+1 w
+384 868 m
+1536 868 l
+S
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 756 Td
+(- Using `read` with `while` to read all lines ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 702 Td
+(- Using `read` with `IFS` to split lines into fields ) Tj
+ET
+/F1 32 Tf
+
+endstream
+endobj
+13 0 obj
+343
+endobj
+14 0 obj
+<<
+/Type /Page
+/MediaBox [ 0 0 1920 1080 ]
+/Contents 15 0 R
+/Resources <<
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+/Font <<
+/F1 4 0 R
+>>
+>>
+/Parent 2 0 R
+>>
+endobj
+15 0 obj
+<<
+/Length 16 0 R
+>>
+stream
+BT
+/F1 24 Tf
+1870 20 Td
+(4) Tj
+ET
+/F1 32 Tf
+/F1 96 Tf
+BT
+/F1 96 Tf
+485 918 Td
+(Variable Manipulation ) Tj
+ET
+1 w
+384 868 m
+1536 868 l
+S
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 756 Td
+(- Converting to lowercase, uppercase ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 702 Td
+(- String manipulation \050substring extraction, length calculation\051 ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 647 Td
+(- Remove prefix and suffix - greedy and non-greedy ) Tj
+ET
+/F1 32 Tf
+
+endstream
+endobj
+16 0 obj
+434
+endobj
+17 0 obj
+<<
+/Type /Page
+/MediaBox [ 0 0 1920 1080 ]
+/Contents 18 0 R
+/Resources <<
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+/Font <<
+/F1 4 0 R
+>>
+>>
+/Parent 2 0 R
+>>
+endobj
+18 0 obj
+<<
+/Length 19 0 R
+>>
+stream
+BT
+/F1 24 Tf
+1870 20 Td
+(5) Tj
+ET
+/F1 32 Tf
+/F1 96 Tf
+BT
+/F1 96 Tf
+431 918 Td
+(Stream Transformations ) Tj
+ET
+1 w
+384 868 m
+1536 868 l
+S
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 756 Td
+(- Simplest transformations using `tr`. ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 702 Td
+(- Replacing characters, deleting characters ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 647 Td
+(- Using `sed` for more complex transformations ) Tj
+ET
+/F1 32 Tf
+
+endstream
+endobj
+19 0 obj
+406
+endobj
+20 0 obj
+<<
+/Type /Page
+/MediaBox [ 0 0 1920 1080 ]
+/Contents 21 0 R
+/Resources <<
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+/Font <<
+/F1 4 0 R
+>>
+>>
+/Parent 2 0 R
+>>
+endobj
+21 0 obj
+<<
+/Length 22 0 R
+>>
+stream
+BT
+/F1 24 Tf
+1870 20 Td
+(6) Tj
+ET
+/F1 32 Tf
+/F1 96 Tf
+BT
+/F1 96 Tf
+479 918 Td
+(Folding and Unfolding ) Tj
+ET
+1 w
+384 868 m
+1536 868 l
+S
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 756 Td
+(- Fixed-width vs variable-width folding ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 702 Td
+(- Using `fold` to wrap text ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 647 Td
+(- Using `grep -o` to extract patterns ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 593 Td
+(- Using `paste` to join lines ) Tj
+ET
+/F1 32 Tf
+
+endstream
+endobj
+22 0 obj
+454
+endobj
+23 0 obj
+<<
+/Type /Page
+/MediaBox [ 0 0 1920 1080 ]
+/Contents 24 0 R
+/Resources <<
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+/Font <<
+/F1 4 0 R
+>>
+>>
+/Parent 2 0 R
+>>
+endobj
+24 0 obj
+<<
+/Length 25 0 R
+>>
+stream
+BT
+/F1 24 Tf
+1870 20 Td
+(7) Tj
+ET
+/F1 32 Tf
+/F1 96 Tf
+BT
+/F1 96 Tf
+149 918 Td
+(Evaluating Mathematical Expressions ) Tj
+ET
+1 w
+384 868 m
+1536 868 l
+S
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 756 Td
+(- Using `bc` for arbitrary precision arithmetic ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 702 Td
+(- Using `expr` for basic arithmetic ) Tj
+ET
+/F1 32 Tf
+
+endstream
+endobj
+25 0 obj
+330
+endobj
+26 0 obj
+<<
+/Type /Page
+/MediaBox [ 0 0 1920 1080 ]
+/Contents 27 0 R
+/Resources <<
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+/Font <<
+/F1 4 0 R
+>>
+>>
+/Parent 2 0 R
+>>
+endobj
+27 0 obj
+<<
+/Length 28 0 R
+>>
+stream
+BT
+/F1 24 Tf
+1870 20 Td
+(8) Tj
+ET
+/F1 32 Tf
+/F1 96 Tf
+BT
+/F1 96 Tf
+639 918 Td
+(Shell Scripting ) Tj
+ET
+1 w
+384 868 m
+1536 868 l
+S
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 756 Td
+(- Writing simple shell scripts ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 702 Td
+(- Using shebang \050`\043!\057usr\057bin\057env bash`\051 ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 647 Td
+(- Executing scripts with `bash script.sh` ) Tj
+ET
+/F1 32 Tf
+
+endstream
+endobj
+28 0 obj
+400
+endobj
+29 0 obj
+<<
+/Type /Page
+/MediaBox [ 0 0 1920 1080 ]
+/Contents 30 0 R
+/Resources <<
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+/Font <<
+/F1 4 0 R
+>>
+>>
+/Parent 2 0 R
+>>
+endobj
+30 0 obj
+<<
+/Length 31 0 R
+>>
+stream
+BT
+/F1 24 Tf
+1870 20 Td
+(9) Tj
+ET
+/F1 32 Tf
+/F1 96 Tf
+BT
+/F1 96 Tf
+359 918 Td
+(For Loops and While Loops ) Tj
+ET
+1 w
+384 868 m
+1536 868 l
+S
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 756 Td
+(- Using `for` loops to iterate over lists ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 702 Td
+(- Using `while` loops to read from stdin ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 647 Td
+(- Using `read` with `IFS` to split lines into fields ) Tj
+ET
+/F1 32 Tf
+
+endstream
+endobj
+31 0 obj
+415
+endobj
+32 0 obj
+<<
+/Type /Page
+/MediaBox [ 0 0 1920 1080 ]
+/Contents 33 0 R
+/Resources <<
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+/Font <<
+/F1 4 0 R
+>>
+>>
+/Parent 2 0 R
+>>
+endobj
+33 0 obj
+<<
+/Length 34 0 R
+>>
+stream
+BT
+/F1 24 Tf
+1870 20 Td
+(10) Tj
+ET
+/F1 32 Tf
+/F1 96 Tf
+BT
+/F1 96 Tf
+546 918 Td
+(Counting Numbers ) Tj
+ET
+1 w
+384 868 m
+1536 868 l
+S
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 756 Td
+(- Iterating till a variable ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 702 Td
+(- Nested iterations ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 647 Td
+(- Variable columns per row ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 593 Td
+(- Printing patterns ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 539 Td
+(- Sum and average calculations ) Tj
+ET
+/F1 32 Tf
+
+endstream
+endobj
+34 0 obj
+483
+endobj
+35 0 obj
+<<
+/Type /Page
+/MediaBox [ 0 0 1920 1080 ]
+/Contents 36 0 R
+/Resources <<
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+/Font <<
+/F1 4 0 R
+>>
+>>
+/Parent 2 0 R
+>>
+endobj
+36 0 obj
+<<
+/Length 37 0 R
+>>
+stream
+BT
+/F1 24 Tf
+1870 20 Td
+(11) Tj
+ET
+/F1 32 Tf
+/F1 96 Tf
+BT
+/F1 96 Tf
+381 918 Td
+(Delimiter Trimming at EOL ) Tj
+ET
+1 w
+384 868 m
+1536 868 l
+S
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 756 Td
+(- Using `sed` to trim delimiters at the end of lines ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 702 Td
+(- Using variable manipulation to remove trailing characters ) Tj
+ET
+/F1 32 Tf
+
+endstream
+endobj
+37 0 obj
+350
+endobj
+38 0 obj
+<<
+/Type /Page
+/MediaBox [ 0 0 1920 1080 ]
+/Contents 39 0 R
+/Resources <<
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+/Font <<
+/F1 4 0 R
+>>
+>>
+/Parent 2 0 R
+>>
+endobj
+39 0 obj
+<<
+/Length 40 0 R
+>>
+stream
+BT
+/F1 24 Tf
+1870 20 Td
+(12) Tj
+ET
+/F1 32 Tf
+/F1 96 Tf
+BT
+/F1 96 Tf
+669 918 Td
+(Sed scripting ) Tj
+ET
+1 w
+384 868 m
+1536 868 l
+S
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 756 Td
+(- Printing and deleting lines conditionally ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 702 Td
+(- Sed with and without `-n` flag ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 647 Td
+(- Substitutions ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 593 Td
+(- Converting case ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 539 Td
+(- Groups and Backreferences in substitutions ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 485 Td
+(- Swapping groups in replacement ) Tj
+ET
+/F1 32 Tf
+
+endstream
+endobj
+40 0 obj
+586
+endobj
+41 0 obj
+<<
+/Type /Page
+/MediaBox [ 0 0 1920 1080 ]
+/Contents 42 0 R
+/Resources <<
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+/Font <<
+/F1 4 0 R
+>>
+>>
+/Parent 2 0 R
+>>
+endobj
+42 0 obj
+<<
+/Length 43 0 R
+>>
+stream
+BT
+/F1 24 Tf
+1870 20 Td
+(13) Tj
+ET
+/F1 32 Tf
+/F1 96 Tf
+BT
+/F1 96 Tf
+663 918 Td
+(Awk scripting ) Tj
+ET
+1 w
+384 868 m
+1536 868 l
+S
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 756 Td
+(- Input and Output delimiters ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 702 Td
+(- Finding sum and average ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 647 Td
+(- Dictionaries in awk ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 593 Td
+(- For loops in awk) Tj
+ET
+
+endstream
+endobj
+43 0 obj
+397
+endobj
+xref
+0 44
+0000000000 65535 f
+0000000015 00000 n
+0000000064 00000 n
+0000000207 00000 n
+0000000268 00000 n
+0000000366 00000 n
+0000000544 00000 n
+0000000728 00000 n
+0000000747 00000 n
+0000000925 00000 n
+0000001366 00000 n
+0000001386 00000 n
+0000001566 00000 n
+0000001965 00000 n
+0000001985 00000 n
+0000002165 00000 n
+0000002655 00000 n
+0000002675 00000 n
+0000002855 00000 n
+0000003317 00000 n
+0000003337 00000 n
+0000003517 00000 n
+0000004027 00000 n
+0000004047 00000 n
+0000004227 00000 n
+0000004613 00000 n
+0000004633 00000 n
+0000004813 00000 n
+0000005269 00000 n
+0000005289 00000 n
+0000005469 00000 n
+0000005940 00000 n
+0000005960 00000 n
+0000006140 00000 n
+0000006679 00000 n
+0000006699 00000 n
+0000006879 00000 n
+0000007285 00000 n
+0000007305 00000 n
+0000007485 00000 n
+0000008127 00000 n
+0000008147 00000 n
+0000008327 00000 n
+0000008780 00000 n
+trailer
+<<
+/Root 1 0 R
+/Info 3 0 R
+/Size 44
+>>
+startxref
+8800
+%%EOF
