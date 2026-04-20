@@ -1,0 +1,259 @@
+%PDF-1.3
+%·¾­ª
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Kids [ 5 0 R 8 0 R 11 0 R ]
+/Count 3
+>>
+endobj
+3 0 obj
+<<
+/Producer (Haru Free PDF Library 2.4.4)
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /StandardEncoding
+>>
+endobj
+5 0 obj
+<<
+/Type /Page
+/MediaBox [ 0 0 1920 1080 ]
+/Contents 6 0 R
+/Resources <<
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+/Font <<
+/F1 4 0 R
+>>
+>>
+/Parent 2 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 7 0 R
+>>
+stream
+BT
+/F1 24 Tf
+1870 20 Td
+(1) Tj
+ET
+/F1 32 Tf
+/F1 128 Tf
+/F1 128 Tf
+BT
+/F1 128 Tf
+255 540 Td
+(OPPE Revision Session ) Tj
+ET
+/F1 32 Tf
+
+endstream
+endobj
+7 0 obj
+132
+endobj
+8 0 obj
+<<
+/Type /Page
+/MediaBox [ 0 0 1920 1080 ]
+/Contents 9 0 R
+/Resources <<
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+/Font <<
+/F1 4 0 R
+>>
+>>
+/Parent 2 0 R
+>>
+endobj
+9 0 obj
+<<
+/Length 10 0 R
+>>
+stream
+BT
+/F1 24 Tf
+1870 20 Td
+(2) Tj
+ET
+/F1 32 Tf
+/F1 96 Tf
+BT
+/F1 96 Tf
+647 918 Td
+(OPPE Format ) Tj
+ET
+1 w
+384 868 m
+1536 868 l
+S
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 756 Td
+(- 5 Questions ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 702 Td
+(- 2 hours ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 647 Td
+(- No options ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 593 Td
+(- Equal weightage ) Tj
+ET
+/F1 32 Tf
+
+endstream
+endobj
+10 0 obj
+363
+endobj
+11 0 obj
+<<
+/Type /Page
+/MediaBox [ 0 0 1920 1080 ]
+/Contents 12 0 R
+/Resources <<
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+/Font <<
+/F1 4 0 R
+>>
+>>
+/Parent 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 13 0 R
+>>
+stream
+BT
+/F1 24 Tf
+1870 20 Td
+(3) Tj
+ET
+/F1 32 Tf
+/F1 96 Tf
+BT
+/F1 96 Tf
+589 918 Td
+(Important Topics ) Tj
+ET
+1 w
+384 868 m
+1536 868 l
+S
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 756 Td
+(- Extracting patterns from lines using `grep -o` ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 702 Td
+(- Converting uppercase to lowercase using `tr` ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 647 Td
+(- Sort and Unique ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 593 Td
+(- Bash Functions ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 539 Td
+(- Common numeric functions, factorial, fibonacci, prime ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 485 Td
+(- Pattern matching in bash ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 431 Td
+(- Loops, break, continue, exit, return ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 377 Td
+(- Heredoc, Herestring ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 323 Td
+(- Sed basics, print, delete, `-n` ) Tj
+ET
+/F1 32 Tf
+BT
+/F1 32 Tf
+480 269 Td
+(- Awk, associative arrays, counts and maps ) Tj
+ET
+
+endstream
+endobj
+13 0 obj
+913
+endobj
+xref
+0 14
+0000000000 65535 f
+0000000015 00000 n
+0000000064 00000 n
+0000000136 00000 n
+0000000197 00000 n
+0000000295 00000 n
+0000000473 00000 n
+0000000659 00000 n
+0000000678 00000 n
+0000000856 00000 n
+0000001274 00000 n
+0000001294 00000 n
+0000001474 00000 n
+0000002443 00000 n
+trailer
+<<
+/Root 1 0 R
+/Info 3 0 R
+/Size 14
+>>
+startxref
+2463
+%%EOF

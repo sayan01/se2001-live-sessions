@@ -1,0 +1,19 @@
+$OPPE Revision Session
+
+#OPPE Format
+- 5 Questions
+- 2 hours
+- No options
+- Equal weightage
+
+#Important Topics
+- Extracting patterns from lines using `grep -o`
+- Converting uppercase to lowercase using `tr`
+- Sort and Unique
+- Bash Functions
+- Common numeric functions, factorial, fibonacci, prime
+- Pattern matching in bash
+- Loops, break, continue, exit, return
+- Heredoc, Herestring
+- Sed basics, print, delete, `-n`
+- Awk, associative arrays, counts and maps
